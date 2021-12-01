@@ -40,9 +40,14 @@ main .cd-card img{
 
 main h4{
   color:white;
+  margin-bottom: 30px;
   text-transform: uppercase;
 }
 
 main span{
   color:gray;
+}
+
+main span:first-of-type{
+  font-size: 20px;
 }
