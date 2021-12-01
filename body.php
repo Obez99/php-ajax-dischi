@@ -7,7 +7,7 @@ include "cds.php";
     <img src="img/logo.png" alt="logo">
   </header>
 
-  <main>
+  <main id="app">
     <div class="container">
       <div class="row row-cols-5">
         <?php
@@ -24,4 +24,5 @@ include "cds.php";
     </div>
   </main>
 
+  <script src="js/main.js"></script>
 </body>
