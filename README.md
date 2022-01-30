@@ -3,7 +3,7 @@
 ## Setup
 I suggest to open a local server using **MAMP** to open ```index.php```.
 
-**NOTE**: **If the server can't find the api, make sure to edit your file path in 'main.js'**
+**NOTE**: **If the server can't find the api, make sure to edit your file path in the axios call in 'main.js'**
 ![ajax](https://user-images.githubusercontent.com/85038274/151709345-ab6c6c21-b6d1-4f28-9a40-6111d519c2de.PNG)
 
 ## Description 
